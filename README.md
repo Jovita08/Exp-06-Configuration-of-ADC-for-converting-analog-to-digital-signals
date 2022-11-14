@@ -1,8 +1,8 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 
-### Name : EZHIL MATHI  R
-### Roll no: 212221240026
+### Name : VIRGIL JOVITA.A
+### Roll no: 212221240062
   
   
 ## Aim: 
